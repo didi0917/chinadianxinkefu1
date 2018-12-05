@@ -12,7 +12,7 @@ public class ProductLog {
 
     //这个是测试一下的代码
     //此处是老高写的一段代码，勿删
-
+    //机密误删,闫哥
     //生产数据
     //用于存放待随机的电话号码
     private List<String> phoneList = new ArrayList<>();
