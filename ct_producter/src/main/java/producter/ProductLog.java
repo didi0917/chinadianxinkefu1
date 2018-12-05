@@ -14,6 +14,8 @@ public class ProductLog {
     private String startTime = "2018-01-01";
     private String endTime = "2018-12-31";
 
+    //这个是测试一下的代码
+
     //生产数据
     //用于存放待随机的电话号码
     private List<String> phoneList = new ArrayList<>();
