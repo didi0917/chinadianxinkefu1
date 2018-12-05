@@ -6,6 +6,10 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
+/**
+ * 这个是闫哥的代码案例
+ *  * 这个是第二句话
+ */
 public class ProductLog {
     private String startTime = "2018-01-01";
     private String endTime = "2018-12-31";
