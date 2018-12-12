@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/BaiduNetdiskDownload/ct/ct_web" />
+    <file type="web" url="file://D:/BaiduNetdiskDownload/尚学堂/电信客服/12_大数据技术之项目：电信客服/3.代码/电信客服第五天/代码/ct/ct_web" />
+    <file type="web" url="file://$PROJECT_DIR$/ct_web" />
+    <file type="web" url="file://$PROJECT_DIR$/WebTest" />
+    <file type="web" url="file://D:/dianxintllecom/ct/ct_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/BaiduNetdiskDownload/ct/ct_web/pom.xml" />
+        <option value="D:/dianxintllecom/ct/ct_web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ct_web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
